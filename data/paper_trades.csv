@@ -1,0 +1,12 @@
+id,symbol,name,added_at,entry_date,entry,qty,stop_loss,target,score,why,status,exit_date,exit_price,exit_reason
+7ffb11ec,AUROPHARMA,Aurobindo Pharma,2026-11-22 21:57,2026-11-20,1799.0,1,1737.31,1922.38,6.89,"Uptrend, Near EMA20 support, Healthy RSI 62, Near 52W high, Positive news",OPEN,,,
+3f241bb4,JSWSTEEL,JSW Steel,2026-11-22 21:58,2026-11-20,1337.0,1,1290.13,1430.73,5.98,"Uptrend, Near EMA20 support, Healthy RSI 60, Near 52W high, Positive news",OPEN,,,
+263094f6,PERSISTENT,Persistent Systems,2026-11-22 21:58,2026-11-20,6124.0,1,5867.17,6637.67,5.89,"Uptrend, Healthy RSI 62, Volume 3.2x, Positive news",OPEN,,,
+227b9a64,ADANIPORTS,Adani Ports,2026-11-22 21:58,2026-11-20,1917.0,1,1849.84,2051.33,5.58,"Uptrend, Near EMA20 support, Healthy RSI 60, Near 52W high, Positive news",OPEN,,,
+99f5915f,ADANIPOWER,Adani Power,2026-11-22 21:58,2026-11-20,211.95,1,203.85,228.15,5.33,"Uptrend, Healthy RSI 64, Volume 1.7x, Positive news",OPEN,,,
+881c0ff4,BHEL,Bharat Heavy Electricals,2026-11-22 21:58,2026-11-20,433.65,1,412.72,475.5,5.3,"Uptrend, Near EMA20 support, Healthy RSI 56, Positive news",OPEN,,,
+40f05f04,APOLLOHOSP,Apollo Hospitals Enterprise,2026-11-22 21:59,2026-11-20,9200.0,1,8869.76,9860.49,5.01,"Uptrend, Volume 2.7x, Near 52W high, Positive news",OPEN,,,
+b3ced4ca,LICHSGFIN,LIC Housing Finance,2026-11-22 21:59,2026-11-20,614.9,1,587.37,669.96,4.95,"Uptrend, Volume 2.1x, Near 52W high, Positive news",OPEN,,,
+a06f0502,BSE,BSE,2026-11-22 21:59,2026-11-20,3781.0,1,3606.69,4129.63,4.52,"Uptrend, Near EMA20 support, Healthy RSI 60",OPEN,,,
+8da6af02,ETERNAL,Eternal,2026-11-22 21:59,2026-11-20,364.0,1,349.53,392.95,4.5,"Uptrend, Near EMA20 support, Healthy RSI 62, Near 52W high",OPEN,,,
+fd7cbe8e,BAJAJHLDNG,Bajaj Holdings & Investment,2026-11-22 21:59,2026-11-20,11669.0,1,11197.5,12612.01,4.5,"Uptrend, Healthy RSI 64, Volume 1.5x, Near 52W high",OPEN,,,
